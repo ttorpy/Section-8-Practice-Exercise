@@ -1,4 +1,5 @@
 # Soccer League
+- The purpose of this project was to replicate a soccer season, including: having 4 teams, having two games per week with random teams and scores until the temperature has been below freezing for three consecutive weeks, and displaying the results for each game and team at the end of the season
 ### Game Class
 - The game class serves as the template for creating individual game objects
 - The data fields for the game class are: the gameID, the temperature, the away and home teams, and the number of goals that each team scores in that game
